@@ -1,4 +1,3 @@
 # gitdemo
 "This is my Demo Git repos!"
-author name =shradda
-author - Chandana Nagraj
+author name - Chandana Nagraj
